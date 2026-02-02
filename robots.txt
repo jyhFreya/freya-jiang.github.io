@@ -1,0 +1,7 @@
+# Robots.txt for https://freya-jiang.github.io/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://freya-jiang.github.io/sitemap.xml
