@@ -1,6 +1,6 @@
 # Freya Jiang - Academic Homepage
 
-🌐 **Live Site:** [https://freya-jiang.github.io/](https://freya-jiang.github.io/)
+🌐 **Live Site:** https://jyhfreya.github.io/freya-jiang.github.io/
 
 A modern, clean academic homepage inspired by Google Scholar's design aesthetic.
 
@@ -102,3 +102,4 @@ Feel free to use and modify this template for your own academic homepage.
 ---
 
 **Last Updated:** February 2026
+
